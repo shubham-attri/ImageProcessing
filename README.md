@@ -41,7 +41,8 @@ Before you begin, ensure you have met the following requirements:
 
 To install these libraries, run:
 ```bash
-pip install numba opencv-python-headless numpy numda 
+pip install numba opencv-python-headless numpy numda
+```
 
 Transformations Applied
 Sobel Filter: Detects edges in the image using the Sobel operator.
