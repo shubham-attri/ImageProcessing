@@ -1,0 +1,967 @@
+
+data/images/motion01.512.tiff -> transformation2 processed in 0.01158 seconds
+data/images/motion01.512.tiff -> transformation3 processed in 0.00473 seconds
+data/images/6.2.30.tiff -> transformation2 processed in 0.00236 seconds
+data/images/6.2.30.tiff -> transformation3 processed in 0.00090 seconds
+data/images/6.2.26.tiff -> transformation2 processed in 0.00101 seconds
+data/images/6.2.26.tiff -> transformation3 processed in 0.00081 seconds
+data/images/6.2.06.tiff -> transformation2 processed in 0.00153 seconds
+data/images/6.2.06.tiff -> transformation3 processed in 0.00095 seconds
+data/images/6.1.16.tiff -> transformation2 processed in 0.00101 seconds
+data/images/6.1.16.tiff -> transformation3 processed in 0.00078 seconds
+data/images/6.2.10.tiff -> transformation2 processed in 0.00132 seconds
+data/images/6.2.10.tiff -> transformation3 processed in 0.00084 seconds
+data/images/6.3.11.tiff -> transformation2 processed in 0.00124 seconds
+data/images/6.3.11.tiff -> transformation3 processed in 0.00084 seconds
+data/images/6.3.07.tiff -> transformation2 processed in 0.00106 seconds
+data/images/6.3.07.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.3.06.tiff -> transformation2 processed in 0.00141 seconds
+data/images/6.3.06.tiff -> transformation3 processed in 0.00080 seconds
+data/images/6.3.10.tiff -> transformation2 processed in 0.00085 seconds
+data/images/6.3.10.tiff -> transformation3 processed in 0.00083 seconds
+data/images/6.1.01.tiff -> transformation2 processed in 0.00097 seconds
+data/images/6.1.01.tiff -> transformation3 processed in 0.00080 seconds
+data/images/6.2.11.tiff -> transformation2 processed in 0.00166 seconds
+data/images/6.2.11.tiff -> transformation3 processed in 0.00087 seconds
+data/images/6.2.07.tiff -> transformation2 processed in 0.00122 seconds
+data/images/6.2.07.tiff -> transformation3 processed in 0.00084 seconds
+data/images/6.2.27.tiff -> transformation2 processed in 0.00084 seconds
+data/images/6.2.27.tiff -> transformation3 processed in 0.00083 seconds
+data/images/6.2.31.tiff -> transformation2 processed in 0.00142 seconds
+data/images/6.2.31.tiff -> transformation3 processed in 0.00107 seconds
+data/images/6.1.10.tiff -> transformation2 processed in 0.00132 seconds
+data/images/6.1.10.tiff -> transformation3 processed in 0.00058 seconds
+data/images/motion10.512.tiff -> transformation2 processed in 0.00300 seconds
+data/images/motion10.512.tiff -> transformation3 processed in 0.00157 seconds
+data/images/6.2.16.tiff -> transformation2 processed in 0.00149 seconds
+data/images/6.2.16.tiff -> transformation3 processed in 0.00100 seconds
+data/images/6.1.06.tiff -> transformation2 processed in 0.00099 seconds
+data/images/6.1.06.tiff -> transformation3 processed in 0.00059 seconds
+data/images/6.3.01.tiff -> transformation2 processed in 0.00119 seconds
+data/images/6.3.01.tiff -> transformation3 processed in 0.00082 seconds
+data/images/6.2.20.tiff -> transformation2 processed in 0.00086 seconds
+data/images/6.2.20.tiff -> transformation3 processed in 0.00084 seconds
+data/images/6.2.21.tiff -> transformation2 processed in 0.00109 seconds
+data/images/6.2.21.tiff -> transformation3 processed in 0.00082 seconds
+data/images/motion06.512.tiff -> transformation2 processed in 0.00279 seconds
+data/images/motion06.512.tiff -> transformation3 processed in 0.00164 seconds
+data/images/motion07.512.tiff -> transformation2 processed in 0.00293 seconds
+data/images/motion07.512.tiff -> transformation3 processed in 0.00160 seconds
+data/images/6.1.07.tiff -> transformation2 processed in 0.00104 seconds
+data/images/6.1.07.tiff -> transformation3 processed in 0.00063 seconds
+data/images/6.2.17.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.2.17.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.1.11.tiff -> transformation2 processed in 0.00079 seconds
+data/images/6.1.11.tiff -> transformation3 processed in 0.00072 seconds
+data/images/6.2.01.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.2.01.tiff -> transformation3 processed in 0.00075 seconds
+data/images/6.3.03.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.3.03.tiff -> transformation3 processed in 0.00082 seconds
+data/images/6.1.04.tiff -> transformation2 processed in 0.00077 seconds
+data/images/6.1.04.tiff -> transformation3 processed in 0.00054 seconds
+data/images/6.2.14.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.2.14.tiff -> transformation3 processed in 0.00075 seconds
+data/images/6.1.12.tiff -> transformation2 processed in 0.00073 seconds
+data/images/6.1.12.tiff -> transformation3 processed in 0.00085 seconds
+data/images/6.2.02.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.2.02.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.2.22.tiff -> transformation2 processed in 0.00091 seconds
+data/images/6.2.22.tiff -> transformation3 processed in 0.00110 seconds
+data/images/6.2.18.tiff -> transformation2 processed in 0.00117 seconds
+data/images/6.2.18.tiff -> transformation3 processed in 0.00111 seconds
+data/images/6.1.08.tiff -> transformation2 processed in 0.00104 seconds
+data/images/6.1.08.tiff -> transformation3 processed in 0.00066 seconds
+data/images/motion08.512.tiff -> transformation2 processed in 0.00261 seconds
+data/images/motion08.512.tiff -> transformation3 processed in 0.00158 seconds
+data/images/motion09.512.tiff -> transformation2 processed in 0.00279 seconds
+data/images/motion09.512.tiff -> transformation3 processed in 0.00147 seconds
+data/images/6.1.09.tiff -> transformation2 processed in 0.00080 seconds
+data/images/6.1.09.tiff -> transformation3 processed in 0.00071 seconds
+data/images/6.2.19.tiff -> transformation2 processed in 0.00098 seconds
+data/images/6.2.19.tiff -> transformation3 processed in 0.00086 seconds
+data/images/6.2.23.tiff -> transformation2 processed in 0.00113 seconds
+data/images/6.2.23.tiff -> transformation3 processed in 0.00084 seconds
+data/images/6.2.03.tiff -> transformation2 processed in 0.00088 seconds
+data/images/6.2.03.tiff -> transformation3 processed in 0.00089 seconds
+data/images/6.1.13.tiff -> transformation2 processed in 0.00078 seconds
+data/images/6.1.13.tiff -> transformation3 processed in 0.00057 seconds
+data/images/6.2.15.tiff -> transformation2 processed in 0.00117 seconds
+data/images/6.2.15.tiff -> transformation3 processed in 0.00078 seconds
+data/images/motion02.512.tiff -> transformation2 processed in 0.00318 seconds
+data/images/motion02.512.tiff -> transformation3 processed in 0.00178 seconds
+data/images/motion03.512.tiff -> transformation2 processed in 0.00239 seconds
+data/images/motion03.512.tiff -> transformation3 processed in 0.00165 seconds
+data/images/6.1.05.tiff -> transformation2 processed in 0.00089 seconds
+data/images/6.1.05.tiff -> transformation3 processed in 0.00061 seconds
+data/images/6.3.02.tiff -> transformation2 processed in 0.00084 seconds
+data/images/6.3.02.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.2.24.tiff -> transformation2 processed in 0.00094 seconds
+data/images/6.2.24.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.3.09.tiff -> transformation2 processed in 0.00078 seconds
+data/images/6.3.09.tiff -> transformation3 processed in 0.00073 seconds
+data/images/6.2.32.tiff -> transformation2 processed in 0.00174 seconds
+data/images/6.2.32.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.2.08.tiff -> transformation2 processed in 0.00077 seconds
+data/images/6.2.08.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.3.05.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.3.05.tiff -> transformation3 processed in 0.00075 seconds
+data/images/6.2.28.tiff -> transformation2 processed in 0.00109 seconds
+data/images/6.2.28.tiff -> transformation3 processed in 0.00093 seconds
+data/images/motion05.512.tiff -> transformation2 processed in 0.00486 seconds
+data/images/motion05.512.tiff -> transformation3 processed in 0.00145 seconds
+data/images/motion04.512.tiff -> transformation2 processed in 0.00222 seconds
+data/images/motion04.512.tiff -> transformation3 processed in 0.00145 seconds
+data/images/6.1.02.tiff -> transformation2 processed in 0.00075 seconds
+data/images/6.1.02.tiff -> transformation3 processed in 0.00057 seconds
+data/images/6.2.12.tiff -> transformation2 processed in 0.00111 seconds
+data/images/6.2.12.tiff -> transformation3 processed in 0.00078 seconds
+data/images/6.1.14.tiff -> transformation2 processed in 0.00075 seconds
+data/images/6.1.14.tiff -> transformation3 processed in 0.00053 seconds
+data/images/6.2.04.tiff -> transformation2 processed in 0.00103 seconds
+data/images/6.2.04.tiff -> transformation3 processed in 0.00076 seconds
+data/images/6.2.05.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.2.05.tiff -> transformation3 processed in 0.00093 seconds
+data/images/6.1.15.tiff -> transformation2 processed in 0.00124 seconds
+data/images/6.1.15.tiff -> transformation3 processed in 0.00052 seconds
+data/images/6.2.13.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.2.13.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.1.03.tiff -> transformation2 processed in 0.00073 seconds
+data/images/6.1.03.tiff -> transformation3 processed in 0.00054 seconds
+data/images/6.2.29.tiff -> transformation2 processed in 0.00135 seconds
+data/images/6.2.29.tiff -> transformation3 processed in 0.00086 seconds
+data/images/6.3.04.tiff -> transformation2 processed in 0.00090 seconds
+data/images/6.3.04.tiff -> transformation3 processed in 0.00127 seconds
+data/images/6.2.09.tiff -> transformation2 processed in 0.00091 seconds
+data/images/6.2.09.tiff -> transformation3 processed in 0.00086 seconds
+data/images/6.3.08.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.3.08.tiff -> transformation3 processed in 0.00073 seconds
+data/images/6.2.25.tiff -> transformation2 processed in 0.00136 seconds
+data/images/6.2.25.tiff -> transformation3 processed in 0.00078 seconds
+Error processing data/images/motion01.512.tiff: tuple index out of range
+Error processing data/images/6.2.30.tiff: tuple index out of range
+Error processing data/images/6.2.26.tiff: tuple index out of range
+Error processing data/images/6.2.06.tiff: tuple index out of range
+Error processing data/images/6.1.16.tiff: tuple index out of range
+Error processing data/images/6.2.10.tiff: tuple index out of range
+Error processing data/images/6.3.11.tiff: tuple index out of range
+Error processing data/images/6.3.07.tiff: tuple index out of range
+Error processing data/images/6.3.06.tiff: tuple index out of range
+Error processing data/images/6.3.10.tiff: tuple index out of range
+Error processing data/images/6.1.01.tiff: tuple index out of range
+Error processing data/images/6.2.11.tiff: tuple index out of range
+Error processing data/images/6.2.07.tiff: tuple index out of range
+Error processing data/images/6.2.27.tiff: tuple index out of range
+Error processing data/images/6.2.31.tiff: tuple index out of range
+Error processing data/images/6.1.10.tiff: tuple index out of range
+Error processing data/images/motion10.512.tiff: tuple index out of range
+Error processing data/images/6.2.16.tiff: tuple index out of range
+Error processing data/images/6.1.06.tiff: tuple index out of range
+Error processing data/images/6.3.01.tiff: tuple index out of range
+Error processing data/images/6.2.20.tiff: tuple index out of range
+Error processing data/images/6.2.21.tiff: tuple index out of range
+Error processing data/images/motion06.512.tiff: tuple index out of range
+Error processing data/images/motion07.512.tiff: tuple index out of range
+Error processing data/images/6.1.07.tiff: tuple index out of range
+Error processing data/images/6.2.17.tiff: tuple index out of range
+Error processing data/images/6.1.11.tiff: tuple index out of range
+Error processing data/images/6.2.01.tiff: tuple index out of range
+Error processing data/images/6.3.03.tiff: tuple index out of range
+Error processing data/images/6.1.04.tiff: tuple index out of range
+Error processing data/images/6.2.14.tiff: tuple index out of range
+Error processing data/images/6.1.12.tiff: tuple index out of range
+Error processing data/images/6.2.02.tiff: tuple index out of range
+Error processing data/images/6.2.22.tiff: tuple index out of range
+Error processing data/images/6.2.18.tiff: tuple index out of range
+Error processing data/images/6.1.08.tiff: tuple index out of range
+Error processing data/images/motion08.512.tiff: tuple index out of range
+Error processing data/images/motion09.512.tiff: tuple index out of range
+Error processing data/images/6.1.09.tiff: tuple index out of range
+Error processing data/images/6.2.19.tiff: tuple index out of range
+Error processing data/images/6.2.23.tiff: tuple index out of range
+Error processing data/images/6.2.03.tiff: tuple index out of range
+Error processing data/images/6.1.13.tiff: tuple index out of range
+Error processing data/images/6.2.15.tiff: tuple index out of range
+Error processing data/images/motion02.512.tiff: tuple index out of range
+Error processing data/images/motion03.512.tiff: tuple index out of range
+Error processing data/images/6.1.05.tiff: tuple index out of range
+Error processing data/images/6.3.02.tiff: tuple index out of range
+Error processing data/images/6.2.24.tiff: tuple index out of range
+Error processing data/images/6.3.09.tiff: tuple index out of range
+Error processing data/images/6.2.32.tiff: tuple index out of range
+Error processing data/images/6.2.08.tiff: tuple index out of range
+Error processing data/images/6.3.05.tiff: tuple index out of range
+Error processing data/images/6.2.28.tiff: tuple index out of range
+Error processing data/images/motion05.512.tiff: tuple index out of range
+Error processing data/images/motion04.512.tiff: tuple index out of range
+Error processing data/images/6.1.02.tiff: tuple index out of range
+Error processing data/images/6.2.12.tiff: tuple index out of range
+Error processing data/images/6.1.14.tiff: tuple index out of range
+Error processing data/images/6.2.04.tiff: tuple index out of range
+Error processing data/images/6.2.05.tiff: tuple index out of range
+Error processing data/images/6.1.15.tiff: tuple index out of range
+Error processing data/images/6.2.13.tiff: tuple index out of range
+Error processing data/images/6.1.03.tiff: tuple index out of range
+Error processing data/images/6.2.29.tiff: tuple index out of range
+Error processing data/images/6.3.04.tiff: tuple index out of range
+Error processing data/images/6.2.09.tiff: tuple index out of range
+Error processing data/images/6.3.08.tiff: tuple index out of range
+Error processing data/images/6.2.25.tiff: tuple index out of range
+Error processing data/images/motion01.512.tiff: tuple index out of range
+Error processing data/images/6.2.30.tiff: tuple index out of range
+Error processing data/images/6.2.26.tiff: tuple index out of range
+Error processing data/images/6.2.06.tiff: tuple index out of range
+Error processing data/images/6.1.16.tiff: tuple index out of range
+Error processing data/images/6.2.10.tiff: tuple index out of range
+Error processing data/images/6.3.11.tiff: tuple index out of range
+Error processing data/images/6.3.07.tiff: tuple index out of range
+Error processing data/images/6.3.06.tiff: tuple index out of range
+Error processing data/images/6.3.10.tiff: tuple index out of range
+Error processing data/images/6.1.01.tiff: tuple index out of range
+Error processing data/images/6.2.11.tiff: tuple index out of range
+Error processing data/images/6.2.07.tiff: tuple index out of range
+Error processing data/images/6.2.27.tiff: tuple index out of range
+Error processing data/images/6.2.31.tiff: tuple index out of range
+Error processing data/images/6.1.10.tiff: tuple index out of range
+Error processing data/images/motion10.512.tiff: tuple index out of range
+Error processing data/images/6.2.16.tiff: tuple index out of range
+Error processing data/images/6.1.06.tiff: tuple index out of range
+Error processing data/images/6.3.01.tiff: tuple index out of range
+Error processing data/images/6.2.20.tiff: tuple index out of range
+Error processing data/images/6.2.21.tiff: tuple index out of range
+Error processing data/images/motion06.512.tiff: tuple index out of range
+Error processing data/images/motion07.512.tiff: tuple index out of range
+Error processing data/images/6.1.07.tiff: tuple index out of range
+Error processing data/images/6.2.17.tiff: tuple index out of range
+Error processing data/images/6.1.11.tiff: tuple index out of range
+Error processing data/images/6.2.01.tiff: tuple index out of range
+Error processing data/images/6.3.03.tiff: tuple index out of range
+Error processing data/images/6.1.04.tiff: tuple index out of range
+Error processing data/images/6.2.14.tiff: tuple index out of range
+Error processing data/images/6.1.12.tiff: tuple index out of range
+Error processing data/images/6.2.02.tiff: tuple index out of range
+Error processing data/images/6.2.22.tiff: tuple index out of range
+Error processing data/images/6.2.18.tiff: tuple index out of range
+Error processing data/images/6.1.08.tiff: tuple index out of range
+Error processing data/images/motion08.512.tiff: tuple index out of range
+Error processing data/images/motion09.512.tiff: tuple index out of range
+Error processing data/images/6.1.09.tiff: tuple index out of range
+Error processing data/images/6.2.19.tiff: tuple index out of range
+Error processing data/images/6.2.23.tiff: tuple index out of range
+Error processing data/images/6.2.03.tiff: tuple index out of range
+Error processing data/images/6.1.13.tiff: tuple index out of range
+Error processing data/images/6.2.15.tiff: tuple index out of range
+Error processing data/images/motion02.512.tiff: tuple index out of range
+Error processing data/images/motion03.512.tiff: tuple index out of range
+Error processing data/images/6.1.05.tiff: tuple index out of range
+Error processing data/images/6.3.02.tiff: tuple index out of range
+Error processing data/images/6.2.24.tiff: tuple index out of range
+Error processing data/images/6.3.09.tiff: tuple index out of range
+Error processing data/images/6.2.32.tiff: tuple index out of range
+Error processing data/images/6.2.08.tiff: tuple index out of range
+Error processing data/images/6.3.05.tiff: tuple index out of range
+Error processing data/images/6.2.28.tiff: tuple index out of range
+Error processing data/images/motion05.512.tiff: tuple index out of range
+Error processing data/images/motion04.512.tiff: tuple index out of range
+Error processing data/images/6.1.02.tiff: tuple index out of range
+Error processing data/images/6.2.12.tiff: tuple index out of range
+Error processing data/images/6.1.14.tiff: tuple index out of range
+Error processing data/images/6.2.04.tiff: tuple index out of range
+Error processing data/images/6.2.05.tiff: tuple index out of range
+Error processing data/images/6.1.15.tiff: tuple index out of range
+Error processing data/images/6.2.13.tiff: tuple index out of range
+Error processing data/images/6.1.03.tiff: tuple index out of range
+Error processing data/images/6.2.29.tiff: tuple index out of range
+Error processing data/images/6.3.04.tiff: tuple index out of range
+Error processing data/images/6.2.09.tiff: tuple index out of range
+Error processing data/images/6.3.08.tiff: tuple index out of range
+Error processing data/images/6.2.25.tiff: tuple index out of range
+data/images/motion01.512.tiff -> transformation2 processed in 0.01 seconds
+data/images/motion01.512.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.30.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.30.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.26.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.26.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.06.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.06.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.16.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.16.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.10.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.10.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.3.11.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.3.11.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.3.07.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.3.07.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.3.06.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.3.06.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.3.10.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.3.10.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.01.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.01.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.11.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.11.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.07.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.07.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.27.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.27.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.31.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.31.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.10.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.10.tiff -> transformation3 processed in 0.00 seconds
+data/images/motion10.512.tiff -> transformation2 processed in 0.00 seconds
+data/images/motion10.512.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.16.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.16.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.06.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.06.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.3.01.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.3.01.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.20.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.20.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.21.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.21.tiff -> transformation3 processed in 0.00 seconds
+data/images/motion06.512.tiff -> transformation2 processed in 0.00 seconds
+data/images/motion06.512.tiff -> transformation3 processed in 0.00 seconds
+data/images/motion07.512.tiff -> transformation2 processed in 0.00 seconds
+data/images/motion07.512.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.07.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.07.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.17.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.17.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.11.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.11.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.01.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.01.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.3.03.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.3.03.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.04.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.04.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.14.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.14.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.12.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.12.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.02.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.02.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.22.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.22.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.18.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.18.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.08.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.08.tiff -> transformation3 processed in 0.00 seconds
+data/images/motion08.512.tiff -> transformation2 processed in 0.00 seconds
+data/images/motion08.512.tiff -> transformation3 processed in 0.00 seconds
+data/images/motion09.512.tiff -> transformation2 processed in 0.00 seconds
+data/images/motion09.512.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.09.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.09.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.19.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.19.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.23.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.23.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.03.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.03.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.13.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.13.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.15.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.15.tiff -> transformation3 processed in 0.00 seconds
+data/images/motion02.512.tiff -> transformation2 processed in 0.00 seconds
+data/images/motion02.512.tiff -> transformation3 processed in 0.00 seconds
+data/images/motion03.512.tiff -> transformation2 processed in 0.00 seconds
+data/images/motion03.512.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.05.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.05.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.3.02.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.3.02.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.24.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.24.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.3.09.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.3.09.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.32.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.32.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.08.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.08.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.3.05.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.3.05.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.28.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.28.tiff -> transformation3 processed in 0.00 seconds
+data/images/motion05.512.tiff -> transformation2 processed in 0.00 seconds
+data/images/motion05.512.tiff -> transformation3 processed in 0.00 seconds
+data/images/motion04.512.tiff -> transformation2 processed in 0.00 seconds
+data/images/motion04.512.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.02.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.02.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.12.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.12.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.14.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.14.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.04.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.04.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.05.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.05.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.15.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.15.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.13.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.13.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.1.03.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.1.03.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.29.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.29.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.3.04.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.3.04.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.09.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.09.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.3.08.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.3.08.tiff -> transformation3 processed in 0.00 seconds
+data/images/6.2.25.tiff -> transformation2 processed in 0.00 seconds
+data/images/6.2.25.tiff -> transformation3 processed in 0.00 seconds
+data/images/motion01.512.tiff -> transformation2 processed in 0.01047 seconds
+data/images/motion01.512.tiff -> transformation3 processed in 0.00412 seconds
+data/images/6.2.30.tiff -> transformation2 processed in 0.00146 seconds
+data/images/6.2.30.tiff -> transformation3 processed in 0.00112 seconds
+data/images/6.2.26.tiff -> transformation2 processed in 0.00155 seconds
+data/images/6.2.26.tiff -> transformation3 processed in 0.00088 seconds
+data/images/6.2.06.tiff -> transformation2 processed in 0.00160 seconds
+data/images/6.2.06.tiff -> transformation3 processed in 0.00097 seconds
+data/images/6.1.16.tiff -> transformation2 processed in 0.00133 seconds
+data/images/6.1.16.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.2.10.tiff -> transformation2 processed in 0.00145 seconds
+data/images/6.2.10.tiff -> transformation3 processed in 0.00082 seconds
+data/images/6.3.11.tiff -> transformation2 processed in 0.00119 seconds
+data/images/6.3.11.tiff -> transformation3 processed in 0.00095 seconds
+data/images/6.3.07.tiff -> transformation2 processed in 0.00147 seconds
+data/images/6.3.07.tiff -> transformation3 processed in 0.00097 seconds
+data/images/6.3.06.tiff -> transformation2 processed in 0.00118 seconds
+data/images/6.3.06.tiff -> transformation3 processed in 0.00113 seconds
+data/images/6.3.10.tiff -> transformation2 processed in 0.00157 seconds
+data/images/6.3.10.tiff -> transformation3 processed in 0.00089 seconds
+data/images/6.1.01.tiff -> transformation2 processed in 0.00103 seconds
+data/images/6.1.01.tiff -> transformation3 processed in 0.00062 seconds
+data/images/6.2.11.tiff -> transformation2 processed in 0.00198 seconds
+data/images/6.2.11.tiff -> transformation3 processed in 0.00167 seconds
+data/images/6.2.07.tiff -> transformation2 processed in 0.00169 seconds
+data/images/6.2.07.tiff -> transformation3 processed in 0.00143 seconds
+data/images/6.2.27.tiff -> transformation2 processed in 0.00127 seconds
+data/images/6.2.27.tiff -> transformation3 processed in 0.00085 seconds
+data/images/6.2.31.tiff -> transformation2 processed in 0.00106 seconds
+data/images/6.2.31.tiff -> transformation3 processed in 0.00100 seconds
+data/images/6.1.10.tiff -> transformation2 processed in 0.00086 seconds
+data/images/6.1.10.tiff -> transformation3 processed in 0.00071 seconds
+data/images/motion10.512.tiff -> transformation2 processed in 0.00228 seconds
+data/images/motion10.512.tiff -> transformation3 processed in 0.00159 seconds
+data/images/6.2.16.tiff -> transformation2 processed in 0.00089 seconds
+data/images/6.2.16.tiff -> transformation3 processed in 0.00081 seconds
+data/images/6.1.06.tiff -> transformation2 processed in 0.00087 seconds
+data/images/6.1.06.tiff -> transformation3 processed in 0.00065 seconds
+data/images/6.3.01.tiff -> transformation2 processed in 0.00088 seconds
+data/images/6.3.01.tiff -> transformation3 processed in 0.00084 seconds
+data/images/6.2.20.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.20.tiff -> transformation3 processed in 0.00084 seconds
+data/images/6.2.21.tiff -> transformation2 processed in 0.00086 seconds
+data/images/6.2.21.tiff -> transformation3 processed in 0.00076 seconds
+data/images/motion06.512.tiff -> transformation2 processed in 0.00232 seconds
+data/images/motion06.512.tiff -> transformation3 processed in 0.00154 seconds
+data/images/motion07.512.tiff -> transformation2 processed in 0.00232 seconds
+data/images/motion07.512.tiff -> transformation3 processed in 0.00156 seconds
+data/images/6.1.07.tiff -> transformation2 processed in 0.00079 seconds
+data/images/6.1.07.tiff -> transformation3 processed in 0.00064 seconds
+data/images/6.2.17.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.17.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.1.11.tiff -> transformation2 processed in 0.00079 seconds
+data/images/6.1.11.tiff -> transformation3 processed in 0.00056 seconds
+data/images/6.2.01.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.2.01.tiff -> transformation3 processed in 0.00076 seconds
+data/images/6.3.03.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.3.03.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.1.04.tiff -> transformation2 processed in 0.00076 seconds
+data/images/6.1.04.tiff -> transformation3 processed in 0.00057 seconds
+data/images/6.2.14.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.2.14.tiff -> transformation3 processed in 0.00085 seconds
+data/images/6.1.12.tiff -> transformation2 processed in 0.00076 seconds
+data/images/6.1.12.tiff -> transformation3 processed in 0.00055 seconds
+data/images/6.2.02.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.02.tiff -> transformation3 processed in 0.00081 seconds
+data/images/6.2.22.tiff -> transformation2 processed in 0.00086 seconds
+data/images/6.2.22.tiff -> transformation3 processed in 0.00074 seconds
+data/images/6.2.18.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.2.18.tiff -> transformation3 processed in 0.00075 seconds
+data/images/6.1.08.tiff -> transformation2 processed in 0.00076 seconds
+data/images/6.1.08.tiff -> transformation3 processed in 0.00054 seconds
+data/images/motion08.512.tiff -> transformation2 processed in 0.00241 seconds
+data/images/motion08.512.tiff -> transformation3 processed in 0.00163 seconds
+data/images/motion09.512.tiff -> transformation2 processed in 0.00278 seconds
+data/images/motion09.512.tiff -> transformation3 processed in 0.00159 seconds
+data/images/6.1.09.tiff -> transformation2 processed in 0.00085 seconds
+data/images/6.1.09.tiff -> transformation3 processed in 0.00060 seconds
+data/images/6.2.19.tiff -> transformation2 processed in 0.00086 seconds
+data/images/6.2.19.tiff -> transformation3 processed in 0.00084 seconds
+data/images/6.2.23.tiff -> transformation2 processed in 0.00086 seconds
+data/images/6.2.23.tiff -> transformation3 processed in 0.00086 seconds
+data/images/6.2.03.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.03.tiff -> transformation3 processed in 0.00076 seconds
+data/images/6.1.13.tiff -> transformation2 processed in 0.00078 seconds
+data/images/6.1.13.tiff -> transformation3 processed in 0.00054 seconds
+data/images/6.2.15.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.2.15.tiff -> transformation3 processed in 0.00079 seconds
+data/images/motion02.512.tiff -> transformation2 processed in 0.00222 seconds
+data/images/motion02.512.tiff -> transformation3 processed in 0.00148 seconds
+data/images/motion03.512.tiff -> transformation2 processed in 0.00225 seconds
+data/images/motion03.512.tiff -> transformation3 processed in 0.00148 seconds
+data/images/6.1.05.tiff -> transformation2 processed in 0.00076 seconds
+data/images/6.1.05.tiff -> transformation3 processed in 0.00053 seconds
+data/images/6.3.02.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.3.02.tiff -> transformation3 processed in 0.00086 seconds
+data/images/6.2.24.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.24.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.3.09.tiff -> transformation2 processed in 0.00080 seconds
+data/images/6.3.09.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.2.32.tiff -> transformation2 processed in 0.00084 seconds
+data/images/6.2.32.tiff -> transformation3 processed in 0.00080 seconds
+data/images/6.2.08.tiff -> transformation2 processed in 0.00080 seconds
+data/images/6.2.08.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.3.05.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.3.05.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.2.28.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.2.28.tiff -> transformation3 processed in 0.00078 seconds
+data/images/motion05.512.tiff -> transformation2 processed in 0.00225 seconds
+data/images/motion05.512.tiff -> transformation3 processed in 0.00150 seconds
+data/images/motion04.512.tiff -> transformation2 processed in 0.00230 seconds
+data/images/motion04.512.tiff -> transformation3 processed in 0.00162 seconds
+data/images/6.1.02.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.1.02.tiff -> transformation3 processed in 0.00058 seconds
+data/images/6.2.12.tiff -> transformation2 processed in 0.00085 seconds
+data/images/6.2.12.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.1.14.tiff -> transformation2 processed in 0.00078 seconds
+data/images/6.1.14.tiff -> transformation3 processed in 0.00054 seconds
+data/images/6.2.04.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.2.04.tiff -> transformation3 processed in 0.00071 seconds
+data/images/6.2.05.tiff -> transformation2 processed in 0.00080 seconds
+data/images/6.2.05.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.1.15.tiff -> transformation2 processed in 0.00075 seconds
+data/images/6.1.15.tiff -> transformation3 processed in 0.00050 seconds
+data/images/6.2.13.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.13.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.1.03.tiff -> transformation2 processed in 0.00077 seconds
+data/images/6.1.03.tiff -> transformation3 processed in 0.00059 seconds
+data/images/6.2.29.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.2.29.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.3.04.tiff -> transformation2 processed in 0.00084 seconds
+data/images/6.3.04.tiff -> transformation3 processed in 0.00078 seconds
+data/images/6.2.09.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.09.tiff -> transformation3 processed in 0.00076 seconds
+data/images/6.3.08.tiff -> transformation2 processed in 0.00080 seconds
+data/images/6.3.08.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.2.25.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.25.tiff -> transformation3 processed in 0.00078 seconds
+data/images/motion01.512.tiff -> transformation1 processed in 0.00376 seconds
+data/images/motion01.512.tiff -> transformation2 processed in 0.01691 seconds
+data/images/motion01.512.tiff -> transformation3 processed in 0.00357 seconds
+data/images/6.2.30.tiff -> transformation1 processed in 0.00067 seconds
+data/images/6.2.30.tiff -> transformation2 processed in 0.00106 seconds
+data/images/6.2.30.tiff -> transformation3 processed in 0.00177 seconds
+data/images/6.2.26.tiff -> transformation1 processed in 0.00061 seconds
+data/images/6.2.26.tiff -> transformation2 processed in 0.00103 seconds
+data/images/6.2.26.tiff -> transformation3 processed in 0.00082 seconds
+data/images/6.2.06.tiff -> transformation1 processed in 0.00056 seconds
+data/images/6.2.06.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.2.06.tiff -> transformation3 processed in 0.00264 seconds
+data/images/6.1.16.tiff -> transformation1 processed in 0.00098 seconds
+data/images/6.1.16.tiff -> transformation2 processed in 0.00111 seconds
+data/images/6.1.16.tiff -> transformation3 processed in 0.00223 seconds
+data/images/6.2.10.tiff -> transformation1 processed in 0.00061 seconds
+data/images/6.2.10.tiff -> transformation2 processed in 0.00112 seconds
+data/images/6.2.10.tiff -> transformation3 processed in 0.00084 seconds
+data/images/6.3.11.tiff -> transformation1 processed in 0.00071 seconds
+data/images/6.3.11.tiff -> transformation2 processed in 0.00103 seconds
+data/images/6.3.11.tiff -> transformation3 processed in 0.00081 seconds
+data/images/6.3.07.tiff -> transformation1 processed in 0.00102 seconds
+data/images/6.3.07.tiff -> transformation2 processed in 0.00271 seconds
+data/images/6.3.07.tiff -> transformation3 processed in 0.00111 seconds
+data/images/6.3.06.tiff -> transformation1 processed in 0.00060 seconds
+data/images/6.3.06.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.3.06.tiff -> transformation3 processed in 0.00107 seconds
+data/images/6.3.10.tiff -> transformation1 processed in 0.00057 seconds
+data/images/6.3.10.tiff -> transformation2 processed in 0.00108 seconds
+data/images/6.3.10.tiff -> transformation3 processed in 0.00115 seconds
+data/images/6.1.01.tiff -> transformation1 processed in 0.00100 seconds
+data/images/6.1.01.tiff -> transformation2 processed in 0.00108 seconds
+data/images/6.1.01.tiff -> transformation3 processed in 0.00105 seconds
+data/images/6.2.11.tiff -> transformation1 processed in 0.00067 seconds
+data/images/6.2.11.tiff -> transformation2 processed in 0.00282 seconds
+data/images/6.2.11.tiff -> transformation3 processed in 0.00106 seconds
+data/images/6.2.07.tiff -> transformation1 processed in 0.00061 seconds
+data/images/6.2.07.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.2.07.tiff -> transformation3 processed in 0.00110 seconds
+data/images/6.2.27.tiff -> transformation1 processed in 0.00083 seconds
+data/images/6.2.27.tiff -> transformation2 processed in 0.00084 seconds
+data/images/6.2.27.tiff -> transformation3 processed in 0.00115 seconds
+data/images/6.2.31.tiff -> transformation1 processed in 0.00059 seconds
+data/images/6.2.31.tiff -> transformation2 processed in 0.00084 seconds
+data/images/6.2.31.tiff -> transformation3 processed in 0.00093 seconds
+data/images/6.1.10.tiff -> transformation1 processed in 0.00057 seconds
+data/images/6.1.10.tiff -> transformation2 processed in 0.00076 seconds
+data/images/6.1.10.tiff -> transformation3 processed in 0.00146 seconds
+data/images/motion10.512.tiff -> transformation1 processed in 0.00374 seconds
+data/images/motion10.512.tiff -> transformation2 processed in 0.00327 seconds
+data/images/motion10.512.tiff -> transformation3 processed in 0.00169 seconds
+data/images/6.2.16.tiff -> transformation1 processed in 0.00150 seconds
+data/images/6.2.16.tiff -> transformation2 processed in 0.00087 seconds
+data/images/6.2.16.tiff -> transformation3 processed in 0.00090 seconds
+data/images/6.1.06.tiff -> transformation1 processed in 0.00053 seconds
+data/images/6.1.06.tiff -> transformation2 processed in 0.00073 seconds
+data/images/6.1.06.tiff -> transformation3 processed in 0.00053 seconds
+data/images/6.3.01.tiff -> transformation1 processed in 0.00053 seconds
+data/images/6.3.01.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.3.01.tiff -> transformation3 processed in 0.00074 seconds
+data/images/6.2.20.tiff -> transformation1 processed in 0.00086 seconds
+data/images/6.2.20.tiff -> transformation2 processed in 0.00077 seconds
+data/images/6.2.20.tiff -> transformation3 processed in 0.00076 seconds
+data/images/6.2.21.tiff -> transformation1 processed in 0.00054 seconds
+data/images/6.2.21.tiff -> transformation2 processed in 0.00078 seconds
+data/images/6.2.21.tiff -> transformation3 processed in 0.00076 seconds
+data/images/motion06.512.tiff -> transformation1 processed in 0.00209 seconds
+data/images/motion06.512.tiff -> transformation2 processed in 0.00222 seconds
+data/images/motion06.512.tiff -> transformation3 processed in 0.00143 seconds
+data/images/motion07.512.tiff -> transformation1 processed in 0.00209 seconds
+data/images/motion07.512.tiff -> transformation2 processed in 0.00212 seconds
+data/images/motion07.512.tiff -> transformation3 processed in 0.00145 seconds
+data/images/6.1.07.tiff -> transformation1 processed in 0.00057 seconds
+data/images/6.1.07.tiff -> transformation2 processed in 0.00073 seconds
+data/images/6.1.07.tiff -> transformation3 processed in 0.00227 seconds
+data/images/6.2.17.tiff -> transformation1 processed in 0.00096 seconds
+data/images/6.2.17.tiff -> transformation2 processed in 0.00080 seconds
+data/images/6.2.17.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.1.11.tiff -> transformation1 processed in 0.00059 seconds
+data/images/6.1.11.tiff -> transformation2 processed in 0.00074 seconds
+data/images/6.1.11.tiff -> transformation3 processed in 0.00053 seconds
+data/images/6.2.01.tiff -> transformation1 processed in 0.00061 seconds
+data/images/6.2.01.tiff -> transformation2 processed in 0.00079 seconds
+data/images/6.2.01.tiff -> transformation3 processed in 0.00076 seconds
+data/images/6.3.03.tiff -> transformation1 processed in 0.00087 seconds
+data/images/6.3.03.tiff -> transformation2 processed in 0.00078 seconds
+data/images/6.3.03.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.1.04.tiff -> transformation1 processed in 0.00058 seconds
+data/images/6.1.04.tiff -> transformation2 processed in 0.00074 seconds
+data/images/6.1.04.tiff -> transformation3 processed in 0.00052 seconds
+data/images/6.2.14.tiff -> transformation1 processed in 0.00054 seconds
+data/images/6.2.14.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.14.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.1.12.tiff -> transformation1 processed in 0.00097 seconds
+data/images/6.1.12.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.1.12.tiff -> transformation3 processed in 0.00085 seconds
+data/images/6.2.02.tiff -> transformation1 processed in 0.00061 seconds
+data/images/6.2.02.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.02.tiff -> transformation3 processed in 0.00122 seconds
+data/images/6.2.22.tiff -> transformation1 processed in 0.00064 seconds
+data/images/6.2.22.tiff -> transformation2 processed in 0.00086 seconds
+data/images/6.2.22.tiff -> transformation3 processed in 0.00103 seconds
+data/images/6.2.18.tiff -> transformation1 processed in 0.00192 seconds
+data/images/6.2.18.tiff -> transformation2 processed in 0.00090 seconds
+data/images/6.2.18.tiff -> transformation3 processed in 0.00094 seconds
+data/images/6.1.08.tiff -> transformation1 processed in 0.00123 seconds
+data/images/6.1.08.tiff -> transformation2 processed in 0.00087 seconds
+data/images/6.1.08.tiff -> transformation3 processed in 0.00063 seconds
+data/images/motion08.512.tiff -> transformation1 processed in 0.00226 seconds
+data/images/motion08.512.tiff -> transformation2 processed in 0.00225 seconds
+data/images/motion08.512.tiff -> transformation3 processed in 0.00146 seconds
+data/images/motion09.512.tiff -> transformation1 processed in 0.00242 seconds
+data/images/motion09.512.tiff -> transformation2 processed in 0.00217 seconds
+data/images/motion09.512.tiff -> transformation3 processed in 0.00143 seconds
+data/images/6.1.09.tiff -> transformation1 processed in 0.00058 seconds
+data/images/6.1.09.tiff -> transformation2 processed in 0.00075 seconds
+data/images/6.1.09.tiff -> transformation3 processed in 0.00053 seconds
+data/images/6.2.19.tiff -> transformation1 processed in 0.00059 seconds
+data/images/6.2.19.tiff -> transformation2 processed in 0.00092 seconds
+data/images/6.2.19.tiff -> transformation3 processed in 0.00076 seconds
+data/images/6.2.23.tiff -> transformation1 processed in 0.00059 seconds
+data/images/6.2.23.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.2.23.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.2.03.tiff -> transformation1 processed in 0.00106 seconds
+data/images/6.2.03.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.2.03.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.1.13.tiff -> transformation1 processed in 0.00055 seconds
+data/images/6.1.13.tiff -> transformation2 processed in 0.00074 seconds
+data/images/6.1.13.tiff -> transformation3 processed in 0.00055 seconds
+data/images/6.2.15.tiff -> transformation1 processed in 0.00061 seconds
+data/images/6.2.15.tiff -> transformation2 processed in 0.00085 seconds
+data/images/6.2.15.tiff -> transformation3 processed in 0.00078 seconds
+data/images/motion02.512.tiff -> transformation1 processed in 0.00228 seconds
+data/images/motion02.512.tiff -> transformation2 processed in 0.00225 seconds
+data/images/motion02.512.tiff -> transformation3 processed in 0.00158 seconds
+data/images/motion03.512.tiff -> transformation1 processed in 0.00406 seconds
+data/images/motion03.512.tiff -> transformation2 processed in 0.00239 seconds
+data/images/motion03.512.tiff -> transformation3 processed in 0.00148 seconds
+data/images/6.1.05.tiff -> transformation1 processed in 0.00082 seconds
+data/images/6.1.05.tiff -> transformation2 processed in 0.00091 seconds
+data/images/6.1.05.tiff -> transformation3 processed in 0.00057 seconds
+data/images/6.3.02.tiff -> transformation1 processed in 0.00082 seconds
+data/images/6.3.02.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.3.02.tiff -> transformation3 processed in 0.00076 seconds
+data/images/6.2.24.tiff -> transformation1 processed in 0.00056 seconds
+data/images/6.2.24.tiff -> transformation2 processed in 0.00084 seconds
+data/images/6.2.24.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.3.09.tiff -> transformation1 processed in 0.00059 seconds
+data/images/6.3.09.tiff -> transformation2 processed in 0.00080 seconds
+data/images/6.3.09.tiff -> transformation3 processed in 0.00086 seconds
+data/images/6.2.32.tiff -> transformation1 processed in 0.00064 seconds
+data/images/6.2.32.tiff -> transformation2 processed in 0.00102 seconds
+data/images/6.2.32.tiff -> transformation3 processed in 0.00087 seconds
+data/images/6.2.08.tiff -> transformation1 processed in 0.00107 seconds
+data/images/6.2.08.tiff -> transformation2 processed in 0.00087 seconds
+data/images/6.2.08.tiff -> transformation3 processed in 0.00244 seconds
+data/images/6.3.05.tiff -> transformation1 processed in 0.00067 seconds
+data/images/6.3.05.tiff -> transformation2 processed in 0.00088 seconds
+data/images/6.3.05.tiff -> transformation3 processed in 0.00089 seconds
+data/images/6.2.28.tiff -> transformation1 processed in 0.00060 seconds
+data/images/6.2.28.tiff -> transformation2 processed in 0.00085 seconds
+data/images/6.2.28.tiff -> transformation3 processed in 0.00257 seconds
+data/images/motion05.512.tiff -> transformation1 processed in 0.00356 seconds
+data/images/motion05.512.tiff -> transformation2 processed in 0.00349 seconds
+data/images/motion05.512.tiff -> transformation3 processed in 0.00158 seconds
+data/images/motion04.512.tiff -> transformation1 processed in 0.00243 seconds
+data/images/motion04.512.tiff -> transformation2 processed in 0.00234 seconds
+data/images/motion04.512.tiff -> transformation3 processed in 0.00155 seconds
+data/images/6.1.02.tiff -> transformation1 processed in 0.00062 seconds
+data/images/6.1.02.tiff -> transformation2 processed in 0.00079 seconds
+data/images/6.1.02.tiff -> transformation3 processed in 0.00055 seconds
+data/images/6.2.12.tiff -> transformation1 processed in 0.00058 seconds
+data/images/6.2.12.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.12.tiff -> transformation3 processed in 0.00080 seconds
+data/images/6.1.14.tiff -> transformation1 processed in 0.00059 seconds
+data/images/6.1.14.tiff -> transformation2 processed in 0.00077 seconds
+data/images/6.1.14.tiff -> transformation3 processed in 0.00053 seconds
+data/images/6.2.04.tiff -> transformation1 processed in 0.00058 seconds
+data/images/6.2.04.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.04.tiff -> transformation3 processed in 0.00078 seconds
+data/images/6.2.05.tiff -> transformation1 processed in 0.00099 seconds
+data/images/6.2.05.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.2.05.tiff -> transformation3 processed in 0.00085 seconds
+data/images/6.1.15.tiff -> transformation1 processed in 0.00055 seconds
+data/images/6.1.15.tiff -> transformation2 processed in 0.00076 seconds
+data/images/6.1.15.tiff -> transformation3 processed in 0.00051 seconds
+data/images/6.2.13.tiff -> transformation1 processed in 0.00055 seconds
+data/images/6.2.13.tiff -> transformation2 processed in 0.00080 seconds
+data/images/6.2.13.tiff -> transformation3 processed in 0.00078 seconds
+data/images/6.1.03.tiff -> transformation1 processed in 0.00055 seconds
+data/images/6.1.03.tiff -> transformation2 processed in 0.00077 seconds
+data/images/6.1.03.tiff -> transformation3 processed in 0.00055 seconds
+data/images/6.2.29.tiff -> transformation1 processed in 0.00099 seconds
+data/images/6.2.29.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.2.29.tiff -> transformation3 processed in 0.00078 seconds
+data/images/6.3.04.tiff -> transformation1 processed in 0.00060 seconds
+data/images/6.3.04.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.3.04.tiff -> transformation3 processed in 0.00076 seconds
+data/images/6.2.09.tiff -> transformation1 processed in 0.00058 seconds
+data/images/6.2.09.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.09.tiff -> transformation3 processed in 0.00076 seconds
+data/images/6.3.08.tiff -> transformation1 processed in 0.00059 seconds
+data/images/6.3.08.tiff -> transformation2 processed in 0.00079 seconds
+data/images/6.3.08.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.2.25.tiff -> transformation1 processed in 0.00093 seconds
+data/images/6.2.25.tiff -> transformation2 processed in 0.00084 seconds
+data/images/6.2.25.tiff -> transformation3 processed in 0.00080 seconds
+data/images/motion01.512.tiff -> transformation1 processed in 0.00364 seconds
+data/images/motion01.512.tiff -> transformation2 processed in 0.01569 seconds
+data/images/motion01.512.tiff -> transformation3 processed in 0.00293 seconds
+data/images/6.2.30.tiff -> transformation1 processed in 0.00050 seconds
+data/images/6.2.30.tiff -> transformation2 processed in 0.00089 seconds
+data/images/6.2.30.tiff -> transformation3 processed in 0.00087 seconds
+data/images/6.2.26.tiff -> transformation1 processed in 0.00130 seconds
+data/images/6.2.26.tiff -> transformation2 processed in 0.00087 seconds
+data/images/6.2.26.tiff -> transformation3 processed in 0.00085 seconds
+data/images/6.2.06.tiff -> transformation1 processed in 0.00104 seconds
+data/images/6.2.06.tiff -> transformation2 processed in 0.00085 seconds
+data/images/6.2.06.tiff -> transformation3 processed in 0.00153 seconds
+data/images/6.1.16.tiff -> transformation1 processed in 0.00092 seconds
+data/images/6.1.16.tiff -> transformation2 processed in 0.00078 seconds
+data/images/6.1.16.tiff -> transformation3 processed in 0.00705 seconds
+data/images/6.2.10.tiff -> transformation1 processed in 0.00120 seconds
+data/images/6.2.10.tiff -> transformation2 processed in 0.00104 seconds
+data/images/6.2.10.tiff -> transformation3 processed in 0.00080 seconds
+data/images/6.3.11.tiff -> transformation1 processed in 0.00124 seconds
+data/images/6.3.11.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.3.11.tiff -> transformation3 processed in 0.00076 seconds
+data/images/6.3.07.tiff -> transformation1 processed in 0.00250 seconds
+data/images/6.3.07.tiff -> transformation2 processed in 0.00087 seconds
+data/images/6.3.07.tiff -> transformation3 processed in 0.00167 seconds
+data/images/6.3.06.tiff -> transformation1 processed in 0.00085 seconds
+data/images/6.3.06.tiff -> transformation2 processed in 0.00084 seconds
+data/images/6.3.06.tiff -> transformation3 processed in 0.00187 seconds
+data/images/6.3.10.tiff -> transformation1 processed in 0.00099 seconds
+data/images/6.3.10.tiff -> transformation2 processed in 0.00079 seconds
+data/images/6.3.10.tiff -> transformation3 processed in 0.00104 seconds
+data/images/6.1.01.tiff -> transformation1 processed in 0.00126 seconds
+data/images/6.1.01.tiff -> transformation2 processed in 0.00073 seconds
+data/images/6.1.01.tiff -> transformation3 processed in 0.00098 seconds
+data/images/6.2.11.tiff -> transformation1 processed in 0.00081 seconds
+data/images/6.2.11.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.11.tiff -> transformation3 processed in 0.00078 seconds
+data/images/6.2.07.tiff -> transformation1 processed in 0.00097 seconds
+data/images/6.2.07.tiff -> transformation2 processed in 0.00078 seconds
+data/images/6.2.07.tiff -> transformation3 processed in 0.00094 seconds
+data/images/6.2.27.tiff -> transformation1 processed in 0.00071 seconds
+data/images/6.2.27.tiff -> transformation2 processed in 0.00077 seconds
+data/images/6.2.27.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.2.31.tiff -> transformation1 processed in 0.00120 seconds
+data/images/6.2.31.tiff -> transformation2 processed in 0.00077 seconds
+data/images/6.2.31.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.1.10.tiff -> transformation1 processed in 0.00079 seconds
+data/images/6.1.10.tiff -> transformation2 processed in 0.00074 seconds
+data/images/6.1.10.tiff -> transformation3 processed in 0.00344 seconds
+data/images/motion10.512.tiff -> transformation1 processed in 0.00360 seconds
+data/images/motion10.512.tiff -> transformation2 processed in 0.00216 seconds
+data/images/motion10.512.tiff -> transformation3 processed in 0.00150 seconds
+data/images/6.2.16.tiff -> transformation1 processed in 0.00121 seconds
+data/images/6.2.16.tiff -> transformation2 processed in 0.00078 seconds
+data/images/6.2.16.tiff -> transformation3 processed in 0.00155 seconds
+data/images/6.1.06.tiff -> transformation1 processed in 0.00083 seconds
+data/images/6.1.06.tiff -> transformation2 processed in 0.00076 seconds
+data/images/6.1.06.tiff -> transformation3 processed in 0.00050 seconds
+data/images/6.3.01.tiff -> transformation1 processed in 0.00088 seconds
+data/images/6.3.01.tiff -> transformation2 processed in 0.00076 seconds
+data/images/6.3.01.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.2.20.tiff -> transformation1 processed in 0.00145 seconds
+data/images/6.2.20.tiff -> transformation2 processed in 0.00087 seconds
+data/images/6.2.20.tiff -> transformation3 processed in 0.00084 seconds
+data/images/6.2.21.tiff -> transformation1 processed in 0.00085 seconds
+data/images/6.2.21.tiff -> transformation2 processed in 0.00087 seconds
+data/images/6.2.21.tiff -> transformation3 processed in 0.00093 seconds
+data/images/motion06.512.tiff -> transformation1 processed in 0.00226 seconds
+data/images/motion06.512.tiff -> transformation2 processed in 0.00237 seconds
+data/images/motion06.512.tiff -> transformation3 processed in 0.00155 seconds
+data/images/motion07.512.tiff -> transformation1 processed in 0.00194 seconds
+data/images/motion07.512.tiff -> transformation2 processed in 0.00221 seconds
+data/images/motion07.512.tiff -> transformation3 processed in 0.00145 seconds
+data/images/6.1.07.tiff -> transformation1 processed in 0.00080 seconds
+data/images/6.1.07.tiff -> transformation2 processed in 0.00074 seconds
+data/images/6.1.07.tiff -> transformation3 processed in 0.00062 seconds
+data/images/6.2.17.tiff -> transformation1 processed in 0.00093 seconds
+data/images/6.2.17.tiff -> transformation2 processed in 0.00078 seconds
+data/images/6.2.17.tiff -> transformation3 processed in 0.00074 seconds
+data/images/6.1.11.tiff -> transformation1 processed in 0.00044 seconds
+data/images/6.1.11.tiff -> transformation2 processed in 0.00078 seconds
+data/images/6.1.11.tiff -> transformation3 processed in 0.00051 seconds
+data/images/6.2.01.tiff -> transformation1 processed in 0.00041 seconds
+data/images/6.2.01.tiff -> transformation2 processed in 0.00077 seconds
+data/images/6.2.01.tiff -> transformation3 processed in 0.00074 seconds
+data/images/6.3.03.tiff -> transformation1 processed in 0.00072 seconds
+data/images/6.3.03.tiff -> transformation2 processed in 0.00085 seconds
+data/images/6.3.03.tiff -> transformation3 processed in 0.00084 seconds
+data/images/6.1.04.tiff -> transformation1 processed in 0.00050 seconds
+data/images/6.1.04.tiff -> transformation2 processed in 0.00077 seconds
+data/images/6.1.04.tiff -> transformation3 processed in 0.00069 seconds
+data/images/6.2.14.tiff -> transformation1 processed in 0.00064 seconds
+data/images/6.2.14.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.14.tiff -> transformation3 processed in 0.00083 seconds
+data/images/6.1.12.tiff -> transformation1 processed in 0.00110 seconds
+data/images/6.1.12.tiff -> transformation2 processed in 0.00073 seconds
+data/images/6.1.12.tiff -> transformation3 processed in 0.00156 seconds
+data/images/6.2.02.tiff -> transformation1 processed in 0.00042 seconds
+data/images/6.2.02.tiff -> transformation2 processed in 0.00078 seconds
+data/images/6.2.02.tiff -> transformation3 processed in 0.00074 seconds
+data/images/6.2.22.tiff -> transformation1 processed in 0.00042 seconds
+data/images/6.2.22.tiff -> transformation2 processed in 0.00079 seconds
+data/images/6.2.22.tiff -> transformation3 processed in 0.00078 seconds
+data/images/6.2.18.tiff -> transformation1 processed in 0.00079 seconds
+data/images/6.2.18.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.2.18.tiff -> transformation3 processed in 0.00086 seconds
+data/images/6.1.08.tiff -> transformation1 processed in 0.00053 seconds
+data/images/6.1.08.tiff -> transformation2 processed in 0.00079 seconds
+data/images/6.1.08.tiff -> transformation3 processed in 0.00052 seconds
+data/images/motion08.512.tiff -> transformation1 processed in 0.00204 seconds
+data/images/motion08.512.tiff -> transformation2 processed in 0.00213 seconds
+data/images/motion08.512.tiff -> transformation3 processed in 0.00145 seconds
+data/images/motion09.512.tiff -> transformation1 processed in 0.00222 seconds
+data/images/motion09.512.tiff -> transformation2 processed in 0.00215 seconds
+data/images/motion09.512.tiff -> transformation3 processed in 0.00139 seconds
+data/images/6.1.09.tiff -> transformation1 processed in 0.00040 seconds
+data/images/6.1.09.tiff -> transformation2 processed in 0.00073 seconds
+data/images/6.1.09.tiff -> transformation3 processed in 0.00056 seconds
+data/images/6.2.19.tiff -> transformation1 processed in 0.00040 seconds
+data/images/6.2.19.tiff -> transformation2 processed in 0.00096 seconds
+data/images/6.2.19.tiff -> transformation3 processed in 0.00078 seconds
+data/images/6.2.23.tiff -> transformation1 processed in 0.00042 seconds
+data/images/6.2.23.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.2.23.tiff -> transformation3 processed in 0.00081 seconds
+data/images/6.2.03.tiff -> transformation1 processed in 0.00082 seconds
+data/images/6.2.03.tiff -> transformation2 processed in 0.00080 seconds
+data/images/6.2.03.tiff -> transformation3 processed in 0.00081 seconds
+data/images/6.1.13.tiff -> transformation1 processed in 0.00081 seconds
+data/images/6.1.13.tiff -> transformation2 processed in 0.00076 seconds
+data/images/6.1.13.tiff -> transformation3 processed in 0.00053 seconds
+data/images/6.2.15.tiff -> transformation1 processed in 0.00053 seconds
+data/images/6.2.15.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.2.15.tiff -> transformation3 processed in 0.00076 seconds
+data/images/motion02.512.tiff -> transformation1 processed in 0.00202 seconds
+data/images/motion02.512.tiff -> transformation2 processed in 0.00217 seconds
+data/images/motion02.512.tiff -> transformation3 processed in 0.00143 seconds
+data/images/motion03.512.tiff -> transformation1 processed in 0.00199 seconds
+data/images/motion03.512.tiff -> transformation2 processed in 0.00221 seconds
+data/images/motion03.512.tiff -> transformation3 processed in 0.00146 seconds
+data/images/6.1.05.tiff -> transformation1 processed in 0.00044 seconds
+data/images/6.1.05.tiff -> transformation2 processed in 0.00090 seconds
+data/images/6.1.05.tiff -> transformation3 processed in 0.00053 seconds
+data/images/6.3.02.tiff -> transformation1 processed in 0.00076 seconds
+data/images/6.3.02.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.3.02.tiff -> transformation3 processed in 0.00076 seconds
+data/images/6.2.24.tiff -> transformation1 processed in 0.00101 seconds
+data/images/6.2.24.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.2.24.tiff -> transformation3 processed in 0.00077 seconds
+data/images/6.3.09.tiff -> transformation1 processed in 0.00046 seconds
+data/images/6.3.09.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.3.09.tiff -> transformation3 processed in 0.00084 seconds
+data/images/6.2.32.tiff -> transformation1 processed in 0.00053 seconds
+data/images/6.2.32.tiff -> transformation2 processed in 0.00116 seconds
+data/images/6.2.32.tiff -> transformation3 processed in 0.00093 seconds
+data/images/6.2.08.tiff -> transformation1 processed in 0.00190 seconds
+data/images/6.2.08.tiff -> transformation2 processed in 0.00103 seconds
+data/images/6.2.08.tiff -> transformation3 processed in 0.00082 seconds
+data/images/6.3.05.tiff -> transformation1 processed in 0.00069 seconds
+data/images/6.3.05.tiff -> transformation2 processed in 0.00088 seconds
+data/images/6.3.05.tiff -> transformation3 processed in 0.00087 seconds
+data/images/6.2.28.tiff -> transformation1 processed in 0.00052 seconds
+data/images/6.2.28.tiff -> transformation2 processed in 0.00085 seconds
+data/images/6.2.28.tiff -> transformation3 processed in 0.00097 seconds
+data/images/motion05.512.tiff -> transformation1 processed in 0.00214 seconds
+data/images/motion05.512.tiff -> transformation2 processed in 0.00218 seconds
+data/images/motion05.512.tiff -> transformation3 processed in 0.00145 seconds
+data/images/motion04.512.tiff -> transformation1 processed in 0.00206 seconds
+data/images/motion04.512.tiff -> transformation2 processed in 0.00213 seconds
+data/images/motion04.512.tiff -> transformation3 processed in 0.00147 seconds
+data/images/6.1.02.tiff -> transformation1 processed in 0.00040 seconds
+data/images/6.1.02.tiff -> transformation2 processed in 0.00076 seconds
+data/images/6.1.02.tiff -> transformation3 processed in 0.00055 seconds
+data/images/6.2.12.tiff -> transformation1 processed in 0.00041 seconds
+data/images/6.2.12.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.2.12.tiff -> transformation3 processed in 0.00076 seconds
+data/images/6.1.14.tiff -> transformation1 processed in 0.00078 seconds
+data/images/6.1.14.tiff -> transformation2 processed in 0.00075 seconds
+data/images/6.1.14.tiff -> transformation3 processed in 0.00051 seconds
+data/images/6.2.04.tiff -> transformation1 processed in 0.00041 seconds
+data/images/6.2.04.tiff -> transformation2 processed in 0.00079 seconds
+data/images/6.2.04.tiff -> transformation3 processed in 0.00073 seconds
+data/images/6.2.05.tiff -> transformation1 processed in 0.00118 seconds
+data/images/6.2.05.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.05.tiff -> transformation3 processed in 0.00164 seconds
+data/images/6.1.15.tiff -> transformation1 processed in 0.00045 seconds
+data/images/6.1.15.tiff -> transformation2 processed in 0.00077 seconds
+data/images/6.1.15.tiff -> transformation3 processed in 0.00053 seconds
+data/images/6.2.13.tiff -> transformation1 processed in 0.00043 seconds
+data/images/6.2.13.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.2.13.tiff -> transformation3 processed in 0.00079 seconds
+data/images/6.1.03.tiff -> transformation1 processed in 0.00047 seconds
+data/images/6.1.03.tiff -> transformation2 processed in 0.00078 seconds
+data/images/6.1.03.tiff -> transformation3 processed in 0.00054 seconds
+data/images/6.2.29.tiff -> transformation1 processed in 0.00113 seconds
+data/images/6.2.29.tiff -> transformation2 processed in 0.00082 seconds
+data/images/6.2.29.tiff -> transformation3 processed in 0.00095 seconds
+data/images/6.3.04.tiff -> transformation1 processed in 0.00045 seconds
+data/images/6.3.04.tiff -> transformation2 processed in 0.00081 seconds
+data/images/6.3.04.tiff -> transformation3 processed in 0.00080 seconds
+data/images/6.2.09.tiff -> transformation1 processed in 0.00048 seconds
+data/images/6.2.09.tiff -> transformation2 processed in 0.00083 seconds
+data/images/6.2.09.tiff -> transformation3 processed in 0.00076 seconds
+data/images/6.3.08.tiff -> transformation1 processed in 0.00043 seconds
+data/images/6.3.08.tiff -> transformation2 processed in 0.00086 seconds
+data/images/6.3.08.tiff -> transformation3 processed in 0.00073 seconds
+data/images/6.2.25.tiff -> transformation1 processed in 0.00067 seconds
+data/images/6.2.25.tiff -> transformation2 processed in 0.00080 seconds
+data/images/6.2.25.tiff -> transformation3 processed in 0.00077 seconds
