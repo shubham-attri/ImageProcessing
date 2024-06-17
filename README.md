@@ -58,7 +58,6 @@ Sobler Conversion:
 [Sobler Transformation](data/transformation1/motion01.512.tiff)
 
 Gaussian Blur:
-
 [Gaussian Transformation](data/transformation2/motion01.512.tiff)
 
 Canny Edge Detection:
@@ -66,6 +65,7 @@ Canny Edge Detection:
 
 Log File
 The log file results/log.txt contains entries like:
+[ImageProcessing/logfilescreenshot.png]
 [Screenshot](logfilescreenshot.png)
 
 This log file records the processing steps and time taken for each image transformation.
