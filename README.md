@@ -78,7 +78,9 @@ This log file records the processing steps and time taken for each image transfo
 After running the script, the processed images will be saved in the following directories:
 
 [data/transformation1/](data/transformation1/)
+
 [data/transformation2/](data/transformation2/)
+
 [data/transformation3/](data/transformation3/)
 
 The log file recording the steps and time taken will be located at [log file](results/log.txt).
