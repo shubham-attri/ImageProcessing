@@ -82,7 +82,7 @@ data/transformation2/
 data/transformation3/
 The log file recording the steps and time taken will be located at [log file](results/log.txt).
 
-Conclusion
+## Conclusion
 This guide helps you set up and run an image processing project using Python. The script performs three transformations on each .tiff image and logs the processing steps and time taken. Follow the instructions to process your images and review the results in the respective directories.
 
 For any further questions or issues, please refer to the documentation or contact the project maintainers.
