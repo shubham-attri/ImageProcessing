@@ -57,20 +57,20 @@ Example Transformations
 Here are examples of the transformations applied to a sample image:
 
 Original Image:
-![Original Image](data/images/motion01.512.tiff)
+[Original Image](data/images/motion01.512.tiff)
 
 Sobler Conversion:
-![Sobler Transformation](data/transformation1/motion01.512.tiff)
+[Sobler Transformation](data/transformation1/motion01.512.tiff)
 
 Gaussian Blur:
-![Gaussian Transformation](data/transformation2/motion01.512.tiff)
+[Gaussian Transformation](data/transformation2/motion01.512.tiff)
 
 Canny Edge Detection:
-![Canny Edge Transformation](data/transformation3/motion01.512.tiff)
+[Canny Edge Transformation](data/transformation3/motion01.512.tiff)
 
 Log File
 The log file results/log.txt contains entries like:
-[Screenshot](logfilescreenshot.png)
+![Screenshot](logfilescreenshot.png)
 
 This log file records the processing steps and time taken for each image transformation.
 
