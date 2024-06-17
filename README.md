@@ -65,7 +65,7 @@ Canny Edge Detection:
 
 Log File
 The log file results/log.txt contains entries like:
-[ImageProcessing/logfilescreenshot.png]
+[logfilescreenshot.png]
 [Screenshot](logfilescreenshot.png)
 
 This log file records the processing steps and time taken for each image transformation.
